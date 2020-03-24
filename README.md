@@ -1,6 +1,6 @@
 # sim_cache
 Author: Migyu Cha <br>
-Date: 2020-03-24 <br>
+Date: 2020-03-02 <br>
 Email: mgcha85@knights.ucf.edu <br>
 
 This is cache simulator
