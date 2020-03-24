@@ -1,4 +1,7 @@
 # sim_cache
+Author: Migyu Cha
+Date: 2020-03-24
+Email: mgcha85@knights.ucf.edu
 
 This is cache simulator
 This includes LRU, FIFO and optimal replacement for replacements.
